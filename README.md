@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first ever project while learning Web Development from The Odin Project.
